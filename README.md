@@ -1,5 +1,5 @@
 # RainingScan
-A Lan Scaner by Python-nmap&amp;netifaces
+A LAN Scaner by Python-nmap&amp;netifaces
 
 emm这是我第一个项目,十分鸡肋 xwx  
 
