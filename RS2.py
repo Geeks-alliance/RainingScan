@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #coding:utf8
-import netifaces,nmap
+import nmap
 
 print("欢迎使用Raining-scan自定义扫描模式")
 print("帮助:这个脚本用于扫描局域网内的存活主机,通常局域网网段分为以下三种:")
